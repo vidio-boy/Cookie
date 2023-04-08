@@ -22,7 +22,7 @@
 <p>Q: What version is this compared to the current Cookie Cliker version?</p>
 <p>A: The current version of Cookie Clicker (as of 4-8-23) is 2.051, and this is version is 2.048. There were only some minor bug updates between the updates.</p>
 
-<div
+<div>
 
 <footer><small><b>Disclaimer:</b> I do not own Cookie Clicker, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.<small><footer>
 </body>
